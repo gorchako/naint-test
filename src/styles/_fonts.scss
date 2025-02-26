@@ -1,0 +1,11 @@
+@font-face {
+  @include font-face('Montserrat', 'Montserrat-Light.woff2', 300, 'normal')
+}
+
+@font-face {
+  @include font-face('Montserrat', 'Montserrat-SemiBold.woff2', 600, 'normal')
+}
+
+@font-face {
+  @include font-face('Montserrat', 'Montserrat-Medium.woff2', 500, 'normal')
+}
